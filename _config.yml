@@ -1,6 +1,6 @@
 name: Alpha
 description: Alphs template for Jekyll
-baseurl: '/Alpha-Jekyll-Theme'
+baseurl: 'https://takagotch.github.io/page18/'
 
 url: "http://localhost:4000"
 
